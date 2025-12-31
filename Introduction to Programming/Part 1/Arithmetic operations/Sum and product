@@ -1,0 +1,5 @@
+# Write your solution here
+Number1 = int(input("Nuber 1: "))
+Number2 = int(input("Nuber 2: "))
+print(f"The sum of the numbers: {Number1 + Number2}")
+print(f"The product of the numbers: {Number1 * Number2}")
