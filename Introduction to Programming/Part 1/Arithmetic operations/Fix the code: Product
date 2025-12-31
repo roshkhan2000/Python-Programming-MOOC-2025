@@ -1,0 +1,8 @@
+# Fix the code
+onenumber = int(input("Please type in the first number: "))
+twonumber = int(input("Please type in the second number: "))
+threenumber = int(input("Please type in the third number: "))
+
+product = onenumber * twonumber * threenumber
+
+print(f"The product is {product}")
