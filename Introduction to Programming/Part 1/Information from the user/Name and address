@@ -1,0 +1,8 @@
+# Write your solution here
+Given_name = input("name?")
+Family_name = input("family name?")
+Street_address = input("street address?")
+City_and_post_code = input("city and postal code?")
+print(Given_name + " " + Family_name)
+print(Street_address)
+print(City_and_post_code)
